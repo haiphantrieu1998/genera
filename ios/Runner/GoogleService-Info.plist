@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>400924383435-5vpvi8romm3e0s5onp00ruq7bgvoiv5q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.400924383435-5vpvi8romm3e0s5onp00ruq7bgvoiv5q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXYk_8UNBnGa1qqjLOfq4ioychsJwEgfk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>400924383435</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.geneexpert</string>
+	<key>PROJECT_ID</key>
+	<string>generexprert</string>
+	<key>STORAGE_BUCKET</key>
+	<string>generexprert.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:400924383435:ios:00f7220216ffecfe8fe34e</string>
+	<key>DATABASE_URL</key>
+	<string>https://generexprert.firebaseio.com</string>
+</dict>
+</plist>

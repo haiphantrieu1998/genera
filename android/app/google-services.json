@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400924383435",
+    "firebase_url": "https://generexprert.firebaseio.com",
+    "project_id": "generexprert",
+    "storage_bucket": "generexprert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400924383435:android:6dc366547379c4eb8fe34e",
+        "android_client_info": {
+          "package_name": "com.geneexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400924383435-ctfpp0s9hcu3b56edg68m44e6btj71ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICbD2wvnBc15j8pijOfeXTe36th2KXNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400924383435-ctfpp0s9hcu3b56edg68m44e6btj71ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

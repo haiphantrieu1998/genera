@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Popular"
+    },
+    {
+        "id": 3,
+        "name": "Weather"
+    },
+    {
+        "id": 2,
+        "name": "Nature"
+    },
+    {
+        "id": 4,
+        "name": "Animal"
+    },
+    {
+        "id": 5,
+        "name": "Social"
+    },
+    {
+        "id": 7,
+        "name": "Family"
+    },
+    {
+        "id": 6,
+        "name": "Holiday"
+    },
+    {
+        "id": 8,
+        "name": "Art/photography"
+    },
+    {
+        "id": 9,
+        "name": "Urban"
+    },
+    {
+        "id": 10,
+        "name": "Food"
+    },
+    {
+        "id": 11,
+        "name": "Fashion"
+    },
+    {
+        "id": 12,
+        "name": "Celebrity"
+    },
+    {
+        "id": 13,
+        "name": "Entertainment"
+    },
+    {
+        "id": 14,
+        "name": "Electronics"
+    },
+    {
+        "id": 16,
+        "name": "Travel / Sports / Active"
+    },
+    {
+        "id": 15,
+        "name": "Follow / Shoutout / Like / Comment"
+    },
+    {
+        "id": 17,
+        "name": "Mood"
+    },
+    {
+        "id": 18,
+        "name": "Other"
+    }
+]
